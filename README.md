@@ -1,2 +1,2 @@
 # vite-ts-vitest-tdd
-Learning day 15.7
+Learning day 14.7
